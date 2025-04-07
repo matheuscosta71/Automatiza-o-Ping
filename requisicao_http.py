@@ -23,8 +23,6 @@ ip_locations = {
 '10.115.227.259' : 'CIE 24703',
 '10.172.196.429' : 'CIE 48975',
 '10.172.196.630' : 'CIE 48975',
-
-    # Adicione mais IPs aqui...
 }
 
 # Listas para armazenar os resultados
